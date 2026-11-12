@@ -1,0 +1,13 @@
+[project]
+name = "frontier-news-extractor"
+version = "1.0.0"
+description = "Frontier AI news tracker: Exa reads official AI-lab newsrooms, GPT-6 Luna summarises and categorises, results land in Excel"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "exa-py>=2.28.0",
+    "openai>=1.80.0",
+    "openpyxl>=3.1.0",
+    "python-dotenv>=1.0.0",
+]
