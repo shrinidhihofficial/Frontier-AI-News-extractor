@@ -1,4 +1,5 @@
 # Frontier AI News Extractor
+My work at OpenAI CoE constants requires me to look for current updates regarding models, feature updates, competitor news etc. and i found it difficult to track each and every website daily so i created a tool that can help me track it.
 
 Tracks news from the frontier AI labs and keeps it in one Excel file. [Exa](https://exa.ai) reads each lab's official newsroom. **OpenAI GPT-6 Luna** filters, summarises and categorises each post. New stories are added on every run, and your own notes are kept.
 
